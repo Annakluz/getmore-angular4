@@ -1,0 +1,25 @@
+.black {
+    background-color: #eee;
+    color: black;
+}
+
+.component2 {
+    background: red;
+    color: white;
+    padding: 20px;
+
+}
+
+.btn {
+    padding: 10px;
+    color: white;
+    background-color: orangered;
+    display: block;
+    margin: 3px;
+}
+
+.card {
+    background-color: red;
+    color: white;
+    padding: 5px;
+}
